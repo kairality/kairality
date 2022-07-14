@@ -14,21 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Star this repo
-10799
-Fork on GitHub
-2697
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Kai!</h1>
 <h3 align="center">A software engineer in San Francisco (formerly a tool specialist at Facebook), volcanophile hiker, insect and carnivorous plant enthusiast.</h3>
 
